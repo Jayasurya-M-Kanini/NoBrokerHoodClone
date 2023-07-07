@@ -1,0 +1,41 @@
+4 modules
+
+1) Login && Registration -->Sangamithra
+
+a)Owner
+b)Tenant
+
+
+2)Services - Periodic event -->Kombaiya
+
+ a)Maid
+ b)Cook
+ c)Driver
+ d)BabySitter etc..
+
+
+
+3)Maintenance Ticket Raise - On Request -->Nithya
+
+a)Only me (Services) 
+------------------
+i)Plumber
+ii)Electrician
+iii)AC Mechanics
+iv)RO Mechanic
+v)Appliances repair
+
+b)Community Maintanence
+--------------------
+i)Plumber
+ii)Electrician
+iii)AC Mechanics
+iv)Trash and Waste Managment
+v)Sewage systems
+vi)Gardeners etc..
+
+4)Request Raise - Push Notification (User) -->Ajay
+
+a)Expected Delivery etc..
+
+
